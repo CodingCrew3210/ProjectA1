@@ -1,4 +1,4 @@
-# Project A1 © 2020 Coding Crew
+# Project A2 © 2020 Coding Crew
 ## `Hayden Kowalchuk`, `Vera Agyiri`, `Mohammad Munsur`, `Ping He`, `Andrew Kennedy`
 
 
